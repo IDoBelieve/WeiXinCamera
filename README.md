@@ -11,7 +11,7 @@
 
 所以这个异常是抓取不了的,而且log日志也不会打印,错误也很难发现,所以在调用有关系统硬件的方法时,一定要谨慎
 
-ps:代码只提供思路
+ps: 代码只提供思路
 
 ![image](https://github.com/Zhaoss/WeiXinCamera/blob/master/image/1.jpg?raw=true)
 ![image](https://github.com/Zhaoss/WeiXinCamera/blob/master/image/2.jpg?raw=true)
